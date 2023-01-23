@@ -20,4 +20,4 @@ std::string& Car::getRoad() {
 }
 void Car::setRoad(std::string road) {
 	_road = road;
-}
+}   
